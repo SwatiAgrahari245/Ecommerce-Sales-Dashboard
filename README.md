@@ -1,6 +1,5 @@
 # Ecommerce Sales Dashboard
-
-*![Dashboard Screenshot](path/to/screenshot.png)  
+  
 *A powerful data visualization tool for analyzing ecommerce sales performance.*
 
 ## 📌 Overview
