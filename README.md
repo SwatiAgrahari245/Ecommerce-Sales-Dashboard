@@ -1,6 +1,6 @@
 # Ecommerce Sales Dashboard
 
-![Dashboard Screenshot](path/to/screenshot.png)  
+*![Dashboard Screenshot](path/to/screenshot.png)  
 *A powerful data visualization tool for analyzing ecommerce sales performance.*
 
 ## 📌 Overview
@@ -61,6 +61,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ---
-**📧 Contact**: If you have any questions, reach out via [GitHub](https://github.com/SwatiAgrahari245) or [Email](mailto:your.email@example.com).
+**📧 Contact**: If you have any questions, reach out via [GitHub](https://github.com/SwatiAgrahari245) or [Email](mailto:swatiagrahari245@gmail.com).
 
 
